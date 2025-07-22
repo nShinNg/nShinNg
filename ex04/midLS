@@ -1,0 +1,1 @@
+ls -1t --file-type | grep -v '^\.' | tr '\n' ',' | sed 's/,/, /g' | sed 's/, $//'
