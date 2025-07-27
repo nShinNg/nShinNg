@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Shin
+- 👋 Hi, I’m Shinnn
 - 👀 I’m new and interested in learning anything.
-- 🌱 I’m currently learning data analysis using SQL and Tableau.
+- 🌱 My areas of expertise: accounting, food and beverages, healthcare, technology.
 
 
 
