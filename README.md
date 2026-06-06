@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shinnn
 - 👀 I’m new and interested in learning anything.
-- 🌱 My areas of expertise: accounting, food and beverages, healthcare, technology.
+- 🌱 My areas of expertise: accounting, food and beverages.
 
 
 
